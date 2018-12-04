@@ -1,0 +1,232 @@
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\ApplicationInsights.config
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe.config
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.rsp
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csi.exe
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csi.rsp
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.AppContext.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe.config
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.rsp
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll.config
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.pdb
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Razor.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\WebGrease.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Razor.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.pdb
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.xml
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csprojResolveAssemblyReference.cache
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.dll
+c:\users\vulduovlak\documents\visual studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.pdb
+C:\Users\Vulduovlak\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.dll
+C:\Users\Vulduovlak\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.pdb
+C:\Users\Vulduovlak\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\ApplicationInsights.config
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe.config
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csc.rsp
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csi.exe
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\csi.rsp
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.AppContext.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe.config
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\vbc.rsp
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll.config
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\TesteCrawler.pdb
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Razor.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\WebGrease.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.pdb
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\HtmlAgilityPack.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.Razor.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.pdb
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.xml
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csproj.CopyComplete
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.dll
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.pdb
+C:\Users\Herlon Silva\Documents\Visual Studio 2017\Projects\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csprojAssemblyReference.cache
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\ApplicationInsights.config
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\csc.exe.config
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\csc.rsp
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\csi.exe
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\csi.rsp
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.AppContext.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\vbc.exe.config
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\vbc.rsp
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll.config
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\TesteCrawler.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\TesteCrawler.pdb
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Razor.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\WebGrease.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Helpers.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Mvc.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Optimization.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.Razor.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\System.Web.WebPages.Razor.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Antlr3.Runtime.pdb
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Newtonsoft.Json.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\Microsoft.AI.Web.xml
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csprojAssemblyReference.cache
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.csproj.CopyComplete
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.dll
+C:\Users\Herlon Silva\Desktop\Trabalho-Angular-\MVC\TesteCrawler\TesteCrawler\obj\Debug\TesteCrawler.pdb
