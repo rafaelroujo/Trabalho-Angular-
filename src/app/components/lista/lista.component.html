@@ -1,0 +1,35 @@
+<div class="alert alert-success" role="alert" *ngFor="let item of items">
+  {{item.name}}
+    
+  <div class = "float-right" (click)="excluir(item)">
+    <i class="far fa-trash-alt"></i>
+  </div>
+  <div class = "float-right mx-3" (click)="editar(item)" data-toggle="modal" data-target="#exampleModal">
+    <i class="fas fa-marker"></i>
+  </div>
+</div>
+
+ 
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Editar: {{editaItem.name}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form (ngSubmit)="addItem()">
+          <input type="text" placeholder="Escreva seu nome." name="name" class="form-control" [(ngModel)]="editaItem.name">
+          <button class="btn btn-warning mt-3" type="submit">Editar</button>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
